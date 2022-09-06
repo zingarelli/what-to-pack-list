@@ -1,7 +1,9 @@
-# Travel backpack reminder 🎒
+# What-to-pack List 🎒
 A website where it's possible to add/remove/update items in a list, so you don't forget what to put in your backpack before traveling.
 
 You need to fill in the form with the item's name and quantity and click on "Save". The item will then be added to a list that appears to the left of the screen. If you try to insert an item that is already on the list, the item will be updated in the list with the new quantity.
+
+The list will still be available even if you close your browser.
 
 # Credits
 
