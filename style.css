@@ -21,7 +21,8 @@ html {
     border-radius: 10px;
     gap: 2em;
 }
-  
+
+/* CSS image created by Tricia Katz https://codepen.io/triciaakatz/details/LbWVPj */
 .backpack {
     min-width: 170px;
     max-width: 170px;
@@ -129,4 +130,14 @@ html {
     height: 40px;
     Background: #C5965F;
     font-weight: 400;
+}
+
+.item button {
+    background-color: #d84736;
+    color: #FFFFFF;
+    border-radius: 20%;
+    border: none;
+    width: 25px;
+    height: 20px;
+    cursor: pointer;
 }
