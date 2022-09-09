@@ -32,3 +32,6 @@ We use local storage to persist data in the browser:
 Whenever the page is loaded, we get data from local storage or create an empty array if no data is available. This array will hold every item in the "what-to-pack list" and is used to interact with data and the local storage, by using methods such as `JSON.parse()`, `JSON.stringify()`, `find()`, `findIndex()`, `push()` and `splice()`.
 
 We also manipulate the DOM to add/remove/update items on screen, by using methods such as `querySelector()`, `createElement()`, `appendChild()` and `remove()`.
+
+## Additional feature: responsiveness
+As an additional feature, I added specific styles for screens up to 940px (tablet) and up to 425px (mobile), using media queries.
