@@ -1,6 +1,8 @@
 # What-to-pack List 🎒
 
-A website where it's possible to add/remove/update items in a list, so you don't forget what to put in your backpack before traveling.
+[Veja esta página em português](#detalhes-do-projeto)
+
+A website in which is possible to add/remove/update items in a list, so you don't forget what to put in your backpack before traveling.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -42,3 +44,7 @@ We also manipulate the DOM to add/remove/update items on screen, by using method
 
 ### Additional feature: responsiveness
 As an additional feature, I added specific styles for screens up to 940px (tablet) and up to 425px (mobile), using media queries.
+
+---
+
+## Detalhes do projeto
