@@ -86,4 +86,4 @@ Também manipulamos o DOM para adicionar, remover e atualizar os itens na tela, 
 
 ## Funcionalidade adicional: responsividade
 
-Como funcionalidade adicional, eu também criei estilos de CSS específicos para telas até 940px (tablet) e até 425px (celular), utilizando media queries. 
+Como funcionalidade adicional, eu também criei estilos de CSS específicos para telas até 940px (tablet) e até 425px (celular), utilizando media queries.
