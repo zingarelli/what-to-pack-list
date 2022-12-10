@@ -11,7 +11,7 @@ A website in which is possible to add/remove/update items in a list, so you don'
 | :rocket: URL         | https://what-to-pack-list.vercel.app
 | :fire: Course     | https://www.alura.com.br/curso-online-javascript-web-armazenando-dados-navegador
 
-![](https://user-images.githubusercontent.com/19349339/206853655-3d36f09b-61fe-4c6e-8b34-8792fdf6448d.png)
+![](https://user-images.githubusercontent.com/19349339/206853655-3d36f09b-61fe-4c6e-8b34-8792fdf6448d.png#vitrinedev)
 
 ## Project details
 
