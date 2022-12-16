@@ -6,7 +6,7 @@ A website in which is possible to add/remove/update items in a list, so you don'
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **What-to-pack List**
+| :sparkles: Nome        | **Mochila de viagem**
 | :label: Tecnologias | html, css, javascript
 | :rocket: URL         | https://what-to-pack-list.vercel.app
 | :fire: Course     | https://www.alura.com.br/curso-online-javascript-web-armazenando-dados-navegador
